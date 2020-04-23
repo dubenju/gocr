@@ -1,0 +1,2 @@
+# gocr
+compile the gocr
