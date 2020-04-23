@@ -1,0 +1,193 @@
+﻿  stdafx.cpp
+  remove.cpp
+c:\test\gocr\gocr\pgm2asc.h(40): warning C4273: 'wcsdup' : dll リンクが一貫していません。
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(403) : 'wcsdup' の前の定義を確認してください
+  progress.cpp
+c:\test\gocr\gocr\progress.cpp(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+c:\test\gocr\gocr\progress.cpp(75): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _fileno. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(718) : 'fileno' の宣言を確認してください。
+  pnm.cpp
+c:\test\gocr\gocr\pnm.cpp(311): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+c:\test\gocr\gocr\pnm.cpp(313): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\pnm.cpp(337): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _fileno. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(718) : 'fileno' の宣言を確認してください。
+c:\test\gocr\gocr\pnm.cpp(444): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+c:\test\gocr\gocr\pnm.cpp(478): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+c:\test\gocr\gocr\pnm.cpp(497): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 'strncpy' の宣言を確認してください。
+c:\test\gocr\gocr\pnm.cpp(498): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 'strncpy' の宣言を確認してください。
+c:\test\gocr\gocr\pnm.cpp(499): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+c:\test\gocr\gocr\pnm.cpp(542): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+  pixel.cpp
+c:\test\gocr\gocr\pgm2asc.h(40): warning C4273: 'wcsdup' : dll リンクが一貫していません。
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(403) : 'wcsdup' の前の定義を確認してください
+  pgm2asc.cpp
+c:\test\gocr\gocr\pgm2asc.h(40): warning C4273: 'wcsdup' : dll リンクが一貫していません。
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(403) : 'wcsdup' の前の定義を確認してください
+c:\test\gocr\gocr\pgm2asc.cpp(98): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(294) : 'wcscpy' の宣言を確認してください。
+c:\test\gocr\gocr\pgm2asc.cpp(2442): warning C4244: '=' : 'wchar_t' から 'char' への変換です。データが失われる可能性があります。
+c:\test\gocr\gocr\pgm2asc.cpp(2649): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(186) : 'strncat' の宣言を確認してください。
+  pcx.cpp
+c:\test\gocr\gocr\pcx.cpp(46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+c:\test\gocr\gocr\pcx.cpp(141): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+  output.cpp
+  otsu.cpp
+  ocr1.cpp
+c:\test\gocr\gocr\pgm2asc.h(40): warning C4273: 'wcsdup' : dll リンクが一貫していません。
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(403) : 'wcsdup' の前の定義を確認してください
+  ocr0n.cpp
+c:\test\gocr\gocr\pgm2asc.h(40): warning C4273: 'wcsdup' : dll リンクが一貫していません。
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(403) : 'wcsdup' の前の定義を確認してください
+  ocr0.cpp
+c:\test\gocr\gocr\pgm2asc.h(40): warning C4273: 'wcsdup' : dll リンクが一貫していません。
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(403) : 'wcsdup' の前の定義を確認してください
+c:\test\gocr\gocr\ocr0.cpp(2208): warning C4101: 'i3' : ローカル変数は 1 度も使われていません。
+c:\test\gocr\gocr\ocr0.cpp(2208): warning C4101: 'i4' : ローカル変数は 1 度も使われていません。
+  list.cpp
+  lines.cpp
+c:\test\gocr\gocr\pgm2asc.h(40): warning C4273: 'wcsdup' : dll リンクが一貫していません。
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(403) : 'wcsdup' の前の定義を確認してください
+c:\test\gocr\gocr\lines.cpp(196): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\lines.cpp(199): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\lines.cpp(212): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 'strdup' の宣言を確認してください。
+c:\test\gocr\gocr\lines.cpp(222): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\lines.cpp(241): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 'strdup' の宣言を確認してください。
+c:\test\gocr\gocr\lines.cpp(253): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\lines.cpp(276): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\lines.cpp(288): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\lines.cpp(318): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\lines.cpp(321): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\lines.cpp(361): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(245) : 'strdup' の宣言を確認してください。
+  job.cpp
+c:\test\gocr\gocr\pgm2asc.h(40): warning C4273: 'wcsdup' : dll リンクが一貫していません。
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(403) : 'wcsdup' の前の定義を確認してください
+  gocr.cpp
+c:\test\gocr\gocr\pgm2asc.h(40): warning C4273: 'wcsdup' : dll リンクが一貫していません。
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(403) : 'wcsdup' の前の定義を確認してください
+c:\test\gocr\gocr\gocr.cpp(169): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(226) : 'freopen' の宣言を確認してください。
+c:\test\gocr\gocr\gocr.cpp(177): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(226) : 'freopen' の宣言を確認してください。
+  detect.cpp
+c:\test\gocr\gocr\pgm2asc.h(40): warning C4273: 'wcsdup' : dll リンクが一貫していません。
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(403) : 'wcsdup' の前の定義を確認してください
+  database.cpp
+c:\test\gocr\gocr\pgm2asc.h(40): warning C4273: 'wcsdup' : dll リンクが一貫していません。
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(403) : 'wcsdup' の前の定義を確認してください
+c:\test\gocr\gocr\database.cpp(45): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 'strncpy' の宣言を確認してください。
+c:\test\gocr\gocr\database.cpp(50): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 'strncpy' の宣言を確認してください。
+c:\test\gocr\gocr\database.cpp(51): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+c:\test\gocr\gocr\database.cpp(146): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 'strncpy' の宣言を確認してください。
+c:\test\gocr\gocr\database.cpp(159): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\database.cpp(162): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 'strncpy' の宣言を確認してください。
+c:\test\gocr\gocr\database.cpp(163): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+c:\test\gocr\gocr\database.cpp(168): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 'strncpy' の宣言を確認してください。
+c:\test\gocr\gocr\database.cpp(203): warning C4333: '>>' : 右シフトの回数が多すぎます。データが失われる可能性があります
+  box.cpp
+c:\test\gocr\gocr\pgm2asc.h(40): warning C4273: 'wcsdup' : dll リンクが一貫していません。
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(403) : 'wcsdup' の前の定義を確認してください
+  barcode.cpp
+c:\test\gocr\gocr\pgm2asc.h(40): warning C4273: 'wcsdup' : dll リンクが一貫していません。
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(403) : 'wcsdup' の前の定義を確認してください
+c:\test\gocr\gocr\barcode.cpp(193): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\barcode.cpp(285): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\barcode.cpp(345): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\barcode.cpp(469): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\barcode.cpp(589): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\barcode.cpp(710): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\barcode.cpp(1058): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 'strncpy' の宣言を確認してください。
+c:\test\gocr\gocr\barcode.cpp(1244): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 'strncpy' の宣言を確認してください。
+c:\test\gocr\gocr\barcode.cpp(1311): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\barcode.cpp(1330): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 'strncpy' の宣言を確認してください。
+c:\test\gocr\gocr\barcode.cpp(1335): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 'strncpy' の宣言を確認してください。
+c:\test\gocr\gocr\barcode.cpp(2058): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\barcode.cpp(2068): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(195) : 'strncpy' の宣言を確認してください。
+  コードを生成中...
+  unicode.cpp
+c:\test\gocr\gocr\unicode.cpp(495): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\unicode.cpp(952): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\unicode.cpp(1202): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\unicode.cpp(1237): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\unicode.cpp(1244): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\unicode.cpp(1246): warning C4065: switch 文に 'default' はありますが 'case' ラベルがありません。
+c:\test\gocr\gocr\unicode.cpp(1262): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+c:\test\gocr\gocr\unicode.cpp(1263): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\test\gocr\Debug\gocr.exe) does not match the Linker's OutputFile property value (C:\test\gocr\Debug\gocr0.52d.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(gocr) does not match the Linker's OutputFile property value (gocr0.52d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Microsoft (R) Incremental Linker Version 12.00.31101.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  "/OUT:C:\test\gocr\Debug\gocr0.52d.exe" "/VERSION:0.52" /INCREMENTAL kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG "/PDB:C:\test\gocr\Debug\gocr.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:C:\test\gocr\Debug\gocr.lib" /MACHINE:X86 Debug\barcode.obj 
+  Debug\box.obj 
+  Debug\database.obj 
+  Debug\detect.obj 
+  Debug\gocr.obj 
+  Debug\job.obj 
+  Debug\lines.obj 
+  Debug\list.obj 
+  Debug\ocr0.obj 
+  Debug\ocr0n.obj 
+  Debug\ocr1.obj 
+  Debug\otsu.obj 
+  Debug\output.obj 
+  Debug\pcx.obj 
+  Debug\pgm2asc.obj 
+  Debug\pixel.obj 
+  Debug\pnm.obj 
+  Debug\progress.obj 
+  Debug\remove.obj 
+  Debug\stdafx.obj 
+  Debug\unicode.obj 
+     ライブラリ C:\test\gocr\Debug\gocr.lib とオブジェクト C:\test\gocr\Debug\gocr.exp を作成中
+  gocr.vcxproj -> C:\test\gocr\Debug\gocr.exe
